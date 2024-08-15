@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="Lab002 added">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
+    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="2 files added">
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab14.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +32,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BSPAYAL"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BSPAYAL&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BSPAYAL/PyATB4xLearning.git",
-    "accountId": "871b75a1-7b6b-4a22-8767-993aa68dbbc2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BSPAYAL/PyATB4xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;871b75a1-7b6b-4a22-8767-993aa68dbbc2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2kMsetrrJosVIyM2sS7CM1sBHrT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,8 +61,19 @@
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab10.executor": "Run",
+    "Python.Lab11.executor": "Run",
+    "Python.Lab12.executor": "Run",
+    "Python.Lab13.executor": "Run",
+    "Python.Lab14.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
   <component name="RunManager">
@@ -110,11 +129,20 @@
       <option name="project" value="LOCAL" />
       <updated>1723107886892</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2 files added">
+      <option name="closed" value="true" />
+      <created>1723455614689</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723455614689</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab002 added" />
+    <MESSAGE value="2 files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 files added" />
   </component>
 </project>
