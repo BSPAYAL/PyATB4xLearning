@@ -1,0 +1,19 @@
+#Explain the difference between the = operator and the == operator in Python.
+= -> this is an assignment operator
+age = 65 #here value of age is assigned as 65 using assignment operator.
+
+== -> this is an comparison operator which compares the left value with the right value and returns boolean.
+str1 = "payal"
+str2 = "payal"
+
+print(str1 == str2) #compares str1 with str2 ,returns True if both strings contains the same value else returns False"""
+
+
+
+#What does the ** operator do in Python, and how is it used?
+** -> this is a power operator.
+print(2**3) #returns the value of 2 raised to the power 3 i.e 8
+
+#What does the ^ operator do in Python, and in what context is it commonly used?
+^ -> its a bitwise XOR operator which compares bits of two numbers,returns 0  if both bits are same else 1
+it first convert the number into binary and then compares and convert the end result to decimal

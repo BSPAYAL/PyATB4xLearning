@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="2 files added">
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13082024/Lab14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task3_1708_2024" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task4_17082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task5_17082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task6_17082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -58,6 +57,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "Python.Lab001.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
@@ -71,9 +71,21 @@
     "Python.Lab12.executor": "Run",
     "Python.Lab13.executor": "Run",
     "Python.Lab14.executor": "Run",
+    "Python.Lab15.executor": "Run",
+    "Python.Lab17.executor": "Run",
+    "Python.Lab18.executor": "Run",
+    "Python.Task3_17082024.executor": "Run",
+    "Python.Task4_17082024.executor": "Run",
+    "Python.Task5_17082024.executor": "Run",
+    "Python.Task6_17082024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "EditorConfig"
+    ]
   }
 }]]></component>
   <component name="RunManager">
