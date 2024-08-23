@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="2 files added">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task7_20082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task8_20082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task9_20082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_20082024/Lab22.py" afterDir="false" />
+    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="task_20082024 added">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task10_22082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task11_22082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab26.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +76,12 @@
     "Python.Lab20.executor": "Run",
     "Python.Lab21.executor": "Debug",
     "Python.Lab22.executor": "Debug",
+    "Python.Lab23.executor": "Run",
+    "Python.Lab24.executor": "Run",
+    "Python.Lab25.executor": "Run",
+    "Python.Lab26.executor": "Run",
+    "Python.Task10_22082024.executor": "Run",
+    "Python.Task11_22082024.executor": "Run",
     "Python.Task3_17082024.executor": "Run",
     "Python.Task4_17082024.executor": "Run",
     "Python.Task5_17082024.executor": "Run",
@@ -201,13 +206,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723455614689</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 7 and 8  added">
+      <option name="closed" value="true" />
+      <created>1724259676081</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724259676081</updated>
+    </task>
+    <task id="LOCAL-00004" summary="task_20082024 added">
+      <option name="closed" value="true" />
+      <created>1724259753833</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724259753833</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="2 files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 files added" />
+    <MESSAGE value="task 7 and 8  added" />
+    <MESSAGE value="task_20082024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_20082024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
