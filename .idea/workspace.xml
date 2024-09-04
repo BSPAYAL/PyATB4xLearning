@@ -4,13 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="task_20082024 added">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task10_22082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tasks/Task11_22082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_22082024/Lab26.py" afterDir="false" />
+    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="task_22082024 added">
+      <change afterPath="$PROJECT_DIR$/src/Tasks/task_31082024/task31082024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab30.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab31.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab39.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab40.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab48.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab49.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab51.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab52.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab53.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab55.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab56.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab57.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +108,15 @@
     "Python.Lab24.executor": "Run",
     "Python.Lab25.executor": "Run",
     "Python.Lab26.executor": "Run",
+    "Python.Lab27.executor": "Run",
+    "Python.Lab29.executor": "Run",
+    "Python.Lab30.executor": "Run",
+    "Python.Lab31.executor": "Run",
+    "Python.Lab32.executor": "Run",
+    "Python.Lab33.executor": "Run",
+    "Python.Lab34.executor": "Run",
+    "Python.Lab35.executor": "Run",
+    "Python.Lab43.executor": "Run",
     "Python.Task10_22082024.executor": "Run",
     "Python.Task11_22082024.executor": "Run",
     "Python.Task3_17082024.executor": "Run",
@@ -89,8 +126,25 @@
     "Python.Task7_20082024.executor": "Run",
     "Python.Task8_20082024.executor": "Run",
     "Python.Task9_20082024.executor": "Run",
+    "Python.lab36.executor": "Run",
+    "Python.lab38.executor": "Run",
+    "Python.lab39.executor": "Run",
+    "Python.lab40.executor": "Run",
+    "Python.lab41.executor": "Run",
+    "Python.lab42.executor": "Run",
+    "Python.lab44.executor": "Run",
+    "Python.lab45.executor": "Run",
+    "Python.lab46.executor": "Run",
+    "Python.lab47.executor": "Run",
+    "Python.lab52.executor": "Run",
+    "Python.lab53.executor": "Run",
+    "Python.lab55.executor": "Run",
+    "Python.lab56.executor": "Run",
+    "Python.lab57.executor": "Run",
+    "Python.task31082024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/bspay/PycharmProjects/PyATB4xLearning/src",
     "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   },
   "keyToStringList": {
@@ -222,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724259753833</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task_22082024 added">
+      <option name="closed" value="true" />
+      <created>1724416360995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724416360995</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,7 +292,8 @@
     <MESSAGE value="2 files added" />
     <MESSAGE value="task 7 and 8  added" />
     <MESSAGE value="task_20082024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_20082024 added" />
+    <MESSAGE value="task_22082024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_22082024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
