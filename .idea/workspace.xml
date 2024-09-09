@@ -5,41 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="task_22082024 added">
-      <change afterPath="$PROJECT_DIR$/src/Tasks/task_31082024/task31082024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24082024/Lab35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/Lab43.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab42.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab44.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab45.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab46.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab47.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27082024/lab48.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab49.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab50.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab51.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab52.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_31082024/lab53.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab55.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab56.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab57.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab58.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab59.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab61.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab62.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab65.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab66.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab67.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab68.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab70.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab71.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab57.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab57.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +123,19 @@
     "Python.lab55.executor": "Run",
     "Python.lab56.executor": "Run",
     "Python.lab57.executor": "Run",
+    "Python.lab58.executor": "Run",
+    "Python.lab59.executor": "Run",
+    "Python.lab60.executor": "Run",
+    "Python.lab61.executor": "Run",
+    "Python.lab62.executor": "Run",
+    "Python.lab63.executor": "Run",
+    "Python.lab64.executor": "Run",
+    "Python.lab65.executor": "Run",
+    "Python.lab66.executor": "Run",
+    "Python.lab67.executor": "Run",
+    "Python.lab68.executor": "Run",
+    "Python.lab69.executor": "Run",
+    "Python.lab70.executor": "Run",
     "Python.task31082024.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -153,6 +148,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bspay\PycharmProjects\PyATB4xLearning\src" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
