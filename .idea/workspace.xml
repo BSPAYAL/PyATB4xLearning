@@ -4,24 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="task_22082024 added">
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab58.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab59.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab60.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab61.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab62.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab63.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab64.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab65.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab66.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab67.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab68.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab69.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab70.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab71.py" afterDir="false" />
+    <list default="true" id="67116d89-0c40-4920-ab90-4c61d8d2c2d5" name="Changes" comment="task_05092024 added">
+      <change afterPath="$PROJECT_DIR$/src/OCTOBER/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCTOBER/test_Lab112.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCTOBER/test_Lab113.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCTOBER/test_Lab114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCTOBER/test_Lab116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCTOBER/test_lab111.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCTOBER/test_lab115.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab71.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab72.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab73.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab74.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab75.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab77.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab79.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab80.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab82.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_07092024/lab83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab83.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab84.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab86.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab87.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab88.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab89.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab90.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab91.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab92.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab93.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab94.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab95.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab96.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab97.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab98.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/lab99.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_10092024/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_12092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_12092024/lab105.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_12092024/lab106.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_12092024/lab107.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/september_2024/ex_12092024/lab108.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab57.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/september_2024/ex_03092024/lab57.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/september_2024/ex_05092024/lab71.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/OCTOBER/Lab120.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,91 +100,125 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab10.executor": "Run",
-    "Python.Lab11.executor": "Run",
-    "Python.Lab12.executor": "Run",
-    "Python.Lab13.executor": "Run",
-    "Python.Lab14.executor": "Run",
-    "Python.Lab15.executor": "Run",
-    "Python.Lab17.executor": "Run",
-    "Python.Lab18.executor": "Run",
-    "Python.Lab19.executor": "Run",
-    "Python.Lab20.executor": "Run",
-    "Python.Lab21.executor": "Debug",
-    "Python.Lab22.executor": "Debug",
-    "Python.Lab23.executor": "Run",
-    "Python.Lab24.executor": "Run",
-    "Python.Lab25.executor": "Run",
-    "Python.Lab26.executor": "Run",
-    "Python.Lab27.executor": "Run",
-    "Python.Lab29.executor": "Run",
-    "Python.Lab30.executor": "Run",
-    "Python.Lab31.executor": "Run",
-    "Python.Lab32.executor": "Run",
-    "Python.Lab33.executor": "Run",
-    "Python.Lab34.executor": "Run",
-    "Python.Lab35.executor": "Run",
-    "Python.Lab43.executor": "Run",
-    "Python.Task10_22082024.executor": "Run",
-    "Python.Task11_22082024.executor": "Run",
-    "Python.Task3_17082024.executor": "Run",
-    "Python.Task4_17082024.executor": "Run",
-    "Python.Task5_17082024.executor": "Run",
-    "Python.Task6_17082024.executor": "Run",
-    "Python.Task7_20082024.executor": "Run",
-    "Python.Task8_20082024.executor": "Run",
-    "Python.Task9_20082024.executor": "Run",
-    "Python.lab36.executor": "Run",
-    "Python.lab38.executor": "Run",
-    "Python.lab39.executor": "Run",
-    "Python.lab40.executor": "Run",
-    "Python.lab41.executor": "Run",
-    "Python.lab42.executor": "Run",
-    "Python.lab44.executor": "Run",
-    "Python.lab45.executor": "Run",
-    "Python.lab46.executor": "Run",
-    "Python.lab47.executor": "Run",
-    "Python.lab52.executor": "Run",
-    "Python.lab53.executor": "Run",
-    "Python.lab55.executor": "Run",
-    "Python.lab56.executor": "Run",
-    "Python.lab57.executor": "Run",
-    "Python.lab58.executor": "Run",
-    "Python.lab59.executor": "Run",
-    "Python.lab60.executor": "Run",
-    "Python.lab61.executor": "Run",
-    "Python.lab62.executor": "Run",
-    "Python.lab63.executor": "Run",
-    "Python.lab64.executor": "Run",
-    "Python.lab65.executor": "Run",
-    "Python.lab66.executor": "Run",
-    "Python.lab67.executor": "Run",
-    "Python.lab68.executor": "Run",
-    "Python.lab69.executor": "Run",
-    "Python.lab70.executor": "Run",
-    "Python.task31082024.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/bspay/PycharmProjects/PyATB4xLearning/src",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests in test_Lab112.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab21.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab22.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Lab23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task10_22082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task11_22082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3_17082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4_17082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task5_17082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task6_17082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task7_20082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task8_20082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task9_20082024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab100.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab101.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab102.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab103.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab105.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab106.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab38.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab52.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab53.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab56.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab57.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab58.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab59.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab60.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab61.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab62.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab63.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab64.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab65.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab66.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab67.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab68.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab69.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab70.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab71.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab72.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab73.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab74.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab75.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab76.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab77.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab78.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab79.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab80.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab81.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab82.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab83.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab85.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab86.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab87.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab88.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab89.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab91.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab92.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab93.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab94.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab95.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab96.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab97.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab98.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lab99.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task31082024.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bspay/PycharmProjects/PyATB4xLearning/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "EditorConfig"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;EditorConfig&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\bspay\PycharmProjects\PyATB4xLearning\src" />
@@ -284,7 +355,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724416360995</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task_05092024 added">
+      <option name="closed" value="true" />
+      <created>1725902140591</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725902140591</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -293,7 +372,8 @@
     <MESSAGE value="task 7 and 8  added" />
     <MESSAGE value="task_20082024 added" />
     <MESSAGE value="task_22082024 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="task_22082024 added" />
+    <MESSAGE value="task_05092024 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="task_05092024 added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -322,6 +402,16 @@
           <url>file://$PROJECT_DIR$/src/ex_20082024/Lab22.py</url>
           <line>12</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/september_2024/ex_07092024/lab78.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/september_2024/ex_07092024/lab80.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
